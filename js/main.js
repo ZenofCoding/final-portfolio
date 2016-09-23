@@ -151,7 +151,7 @@
   });
 
   $(".sub-title").typed({
-    strings: ["Developer", "Designer", "Enthusiast"],
+    strings: ["Web Developer", "Web Designer", "Web Enthusiast"],
     typeSpeed: 1,
     backSpeed: 1,
     backDelay: 1400,
